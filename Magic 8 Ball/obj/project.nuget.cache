@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cz6l9RGK2fYrLh0Cs2cERyi6GVjwMQ/4SN65Do9fyW5+Q9yhoyhTStJP4rR/0zbfgcEDas5rRSGn3XagzvPb0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\workspace\\Magic 8 Ball\\Magic 8 Ball\\Magic 8 Ball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
